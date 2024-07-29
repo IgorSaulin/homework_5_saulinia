@@ -167,7 +167,7 @@ int main()
     Audio.setNumber_cylinders(50); //Присвоение информации используя метод сет.
 
     //Экземпляр класса Car с конструктором по умолчанию
-    Car BMW;
+    Car BMW; //Commit for chec to work git
 
     //Экзмепляр класса Lorry
     Lorry Sprinter {"Sprinter", 50, 50, 50};
